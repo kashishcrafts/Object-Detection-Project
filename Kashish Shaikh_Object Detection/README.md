@@ -74,3 +74,17 @@ The model detects objects in images and generates output images with labels and 
 **Kashish Shaikh**
 
 Computer Engineering Student
+
+## Sample Outputs
+
+### Detection Result 1
+
+![Result 1](outputs/result-1.png)
+
+### Detection Result 2
+
+![Result 2](outputs/result-2.png)
+
+### Detection Result 3
+
+![Result 3](outputs/result-3.png)
